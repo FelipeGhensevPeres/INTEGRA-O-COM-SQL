@@ -1,4 +1,4 @@
-# INTEGRACAO-COM-SQL
+# INTEGRACAO COM SQL
 
 aplicativo de controle de estoque feito em Python utilizando:
 
